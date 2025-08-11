@@ -16,6 +16,3 @@
   </a>
     <hr>
 </div>
-<div>
-<img align="center" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg"> </img>
-</div>
